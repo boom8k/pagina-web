@@ -92,7 +92,7 @@ video{
     
     
    
-    background: url('../img/lab2.jpg.') no-repeat 0 -1000px;
+    background: url('../img/lab2.jpg') no-repeat 0 -1000px;
     text-align: center;
     color:#ffff
 }
